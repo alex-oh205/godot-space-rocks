@@ -1,2 +1,2 @@
 # godot-space-rocks
-Space Rocks game from KidsCanCode's tutorials.
+Space Rocks game made with Godot
